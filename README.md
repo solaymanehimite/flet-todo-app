@@ -1,3 +1,2 @@
 # Todo app in flet
-
-a simple to do app in flet
+A simple to do app in [flet](https://flet.dev/)
